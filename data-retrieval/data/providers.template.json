@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Example Practice Name",
+    "street": "Example Street 1",
+    "postal_code": "30159",
+    "city": "Hannover",
+    "country": "DE",
+    "latitude": 52.3759,
+    "longitude": 9.732,
+    "phone": "+49 511 000 000 0",
+    "email": "info@example.de",
+    "website": "https://www.example.de/",
+    "source_url": "https://www.example.de/leistungen",
+    "verified_at": "2026-04-25T00:00:00",
+    "services": []
+  }
+]

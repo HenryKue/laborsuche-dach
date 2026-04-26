@@ -1,0 +1,202 @@
+[
+  {
+    "id": "blood-001",
+    "name": "VITALITY - Privatpraxis für Ästhetische Medizin",
+    "url": "https://www.vitality-praxis.de/kontakt"
+  },
+  {
+    "id": "blood-002",
+    "name": "Mein Direktlabor Sylt",
+    "url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-sylt/"
+  },
+  {
+    "id": "blood-003",
+    "name": "Mein Direktlabor Kiel",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-kiel/"
+  },
+  {
+    "id": "blood-004",
+    "name": "Mein Direktlabor - Labor Hamburg-Nord",
+    "url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-hamburg-nord/"
+  },
+  {
+    "id": "blood-005",
+    "name": "Mein Direktlabor - Labor Stephansplatz",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-stephansplatz/"
+  },
+  {
+    "id": "blood-006",
+    "name": "Mein Direktlabor - Labor Oldenburg",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-oldenburg/"
+  },
+  {
+    "id": "blood-007",
+    "name": "Praxis Gerlach & Kollegen",
+    "url": "https://www.praxis-gerlach.de/allgemeinmedizin/"
+  },
+  {
+    "id": "blood-008",
+    "name": "Medizinisches Labor Bremen",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-bremen/"
+  },
+  {
+    "id": "blood-009",
+    "name": "Mein Direktlabor - Labor Celle",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-celle/"
+  },
+  {
+    "id": "blood-010",
+    "name": "Bioscientia Berlin-Marzahn",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-marzahn/"
+  },
+  {
+    "id": "blood-011",
+    "name": "Bioscientia Berlin-Tiergarten",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-tiergarten/#googlemaps"
+  },
+  {
+    "id": "blood-012",
+    "name": "Bioscientia Berlin-Spandau",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-spandau/"
+  },
+  {
+    "id": "blood-013",
+    "name": "Labor 28",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-28/"
+  },
+  {
+    "id": "blood-014",
+    "name": "MLD Medizinische Laboratorien Düsseldorf",
+    "url": "https://www.labor-duesseldorf.de/"
+  },
+  {
+    "id": "blood-015",
+    "name": "Mein Direktlabor Köln",
+    "url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-koeln/"
+  },
+  {
+    "id": "blood-016",
+    "name": "Mein Direktlabor Klipphausen",
+    "url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-klipphausen/"
+  },
+  {
+    "id": "blood-017",
+    "name": "Bioscientia Labor Jena",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-jena/"
+  },
+  {
+    "id": "blood-018",
+    "name": "Bioscientia Labor Gotha",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-gotha/"
+  },
+  {
+    "id": "blood-019",
+    "name": "Bioscientia Labor Mittelhessen",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-giessen/"
+  },
+  {
+    "id": "blood-020",
+    "name": "Bioscientia Labor Fulda",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-fulda/"
+  },
+  {
+    "id": "blood-021",
+    "name": "Bioscientia Labor Mainz",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-mainz/"
+  },
+  {
+    "id": "blood-022",
+    "name": "Bioscientia Labor Ingelheim",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-ingelheim/"
+  },
+  {
+    "id": "blood-023",
+    "name": "Labor Staber Bayreuth",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-staber-bayreuth/"
+  },
+  {
+    "id": "blood-024",
+    "name": "Mein Direktlabor bei der WoGe",
+    "url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-bei-der-woge/"
+  },
+  {
+    "id": "blood-025",
+    "name": "Mein Direktlabor - Labor Staber Nürnberg",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-staber-nuernberg/"
+  },
+  {
+    "id": "blood-026",
+    "name": "Bioscientia Labor Saar",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-saar/"
+  },
+  {
+    "id": "blood-027",
+    "name": "Mein Direktlabor Karlsruhe - Moderne Labordiagnostik für Selbstzahler",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-karlsruhe/"
+  },
+  {
+    "id": "blood-028",
+    "name": "Mein Direktlabor Stuttgart - Moderne Labordiagnostik für Selbstzahler",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-stuttgart/"
+  },
+  {
+    "id": "blood-029",
+    "name": "Labor Augsburg MVZ",
+    "url": "https://labor-augsburg-mvz.de/"
+  },
+  {
+    "id": "blood-030",
+    "name": "Mein Direktlabor - Labor München",
+    "url": "https://www.meindirektlabor.de/standorte/standort/labor-staber-muenchen/"
+  },
+  {
+    "id": "blood-031",
+    "name": "Mein Direktlabor - Labor Freiburg",
+    "url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-freiburg/"
+  },
+  {
+    "id": "blood-032",
+    "name": "myLab",
+    "url": "https://www.my-lab.at/fuer-patientinnen/"
+  },
+  {
+    "id": "blood-033",
+    "name": "Lab to Go",
+    "url": "https://labtogo.ch/"
+  },
+  {
+    "id": "blood-033",
+    "name": "Luzerner Kantonsspital",
+    "url": "https://www.luks.ch/standorte/standort-luzern/labormedizin/kontakt-und-anreise-labormedizin"
+  },
+  {
+    "id": "blood-034",
+    "name": "drop in lab Greifengasse",
+    "url": "https://dropinlab.ch/standorte/greifengasse/"
+  },
+  {
+    "id": "blood-035",
+    "name": "drop in lab Markthalle",
+    "url": "https://dropinlab.ch/standorte/markthalle/"
+  },
+  {
+    "id": "blood-036",
+    "name": "Wunschlabor",
+    "url": "https://www.wunschlabor.ch/"
+  },
+  {
+    "id": "blood-37",
+    "name": "Walk-in Laboranalysen Albisriederplatz",
+    "url": "https://walkin-labor.ch/walkin-albisriederplatz/"
+  },
+  {
+    "id": "blood-38",
+    "name": "Walk-in Laboranalysen Zollhaus",
+    "url": "https://walkin-labor.ch/walkin-zollhaus/"
+  },
+  {
+    "id": "blood-039",
+    "name": "Labor Dr. Hamwi",
+    "url": "https://www.labor-hamwi.at/unser-labor/kontakt/"
+  }
+]
