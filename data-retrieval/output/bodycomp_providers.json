@@ -1,0 +1,573 @@
+[
+  {
+    "name": "Diagnostikum Linz",
+    "street": "Saporoshjestraße 3",
+    "postal_code": "4030",
+    "city": "Linz-Kleinmünchen",
+    "country": "AT",
+    "latitude": 48.2509042,
+    "longitude": 14.3206397,
+    "phone": "+43 732 31 34 80",
+    "email": "linz@diagnostikum.at",
+    "website": "https://diagnostikum.at/",
+    "source_url": "https://diagnostikum.at/de/locations/diagnostikum-linz/",
+    "verified_at": "2026-04-26T15:08:21.824983+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Diagnostikum Graz",
+    "street": "Weblinger Gürtel 25",
+    "postal_code": "8054",
+    "city": "Graz",
+    "country": "AT",
+    "latitude": 47.0347211,
+    "longitude": 15.4170282,
+    "phone": "+43 316 2477",
+    "email": "graz@diagnostikum.at",
+    "website": "https://diagnostikum.at/",
+    "source_url": "https://diagnostikum.at/de/locations/diagnostikum-graz/",
+    "verified_at": "2026-04-26T15:08:41.956900+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Diagnosezentrum Meidling",
+    "street": "Meidlinger Hauptstr. 7-9",
+    "postal_code": "1120",
+    "city": "Wien",
+    "country": "AT",
+    "latitude": 48.1824708,
+    "longitude": 16.3306721,
+    "phone": "+43 1 81 333 81",
+    "email": "office@dzm.at",
+    "website": "https://diagnostikum.at/",
+    "source_url": "https://diagnostikum.at/de/locations/diagnosezentrum-meidling/",
+    "verified_at": "2026-04-26T15:09:02.068261+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Ortho Eins - Privatpraxis Dr. Ulrich Schleicher Dr. Carsten Teichert Felix Loehr",
+    "street": "Clayallee 225a",
+    "postal_code": "14195",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.4491211,
+    "longitude": 13.268694,
+    "phone": "+49 30 84183851",
+    "email": "u.schleicher@ortho-eins.de",
+    "website": "https://www.ulrich-schleicher-orthopaede.de/",
+    "source_url": "https://www.ulrich-schleicher-orthopaede.de/",
+    "verified_at": "2026-04-26T15:09:40.166877+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      },
+      {
+        "type": "blood_test",
+        "price": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Orthopädie Köln Widdersdorf",
+    "street": "Hauptstr. 44",
+    "postal_code": "50859",
+    "city": "Köln-Widdersdorf",
+    "country": "DE",
+    "latitude": 50.9650548,
+    "longitude": 6.8330614,
+    "phone": "+49 221 96025888",
+    "email": "info@orthopaedie-koeln-widdersdorf.de",
+    "website": "https://orthopaedie-koeln-widdersdorf.de/",
+    "source_url": "https://orthopaedie-koeln-widdersdorf.de/knochendichtemessung/",
+    "verified_at": "2026-04-26T15:10:00.581056+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Orthopädie em Veedel",
+    "street": "Dürener Straße 199-203",
+    "postal_code": "50931",
+    "city": "Köln",
+    "country": "DE",
+    "latitude": 50.929925,
+    "longitude": 6.91384,
+    "phone": "+4922195587654",
+    "email": "info@orthopaedie-em-veedel.de",
+    "website": "https://orthopaedie-em-veedel.de/",
+    "source_url": "https://orthopaedie-em-veedel.de/koerperzusammensetzungsanalyse/",
+    "verified_at": "2026-04-26T15:10:10.234409+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Praxis für Endokrinologie",
+    "street": "Karolinenstraße 1",
+    "postal_code": "90402",
+    "city": "Nürnberg",
+    "country": "DE",
+    "latitude": 49.4509645,
+    "longitude": 11.0777527,
+    "phone": "+49 0 911 23 60 50",
+    "email": "info@hormone-nbg.de",
+    "website": "https://hormone-nbg.de/",
+    "source_url": "https://hormone-nbg.de/body-composition/",
+    "verified_at": "2026-04-26T15:11:14.917501+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Universitätsklinikum Münster - Klinik für Andrologie",
+    "street": "Domagkstraße 11",
+    "postal_code": "48149",
+    "city": "Münster",
+    "country": "DE",
+    "latitude": 51.9616686,
+    "longitude": 7.6003364,
+    "phone": "+49 251 83 54812",
+    "email": "andro@ukmuenster.de",
+    "website": "https://www.ukm.de/",
+    "source_url": "https://www.ukm.de/fileadmin/user_upload/Medizin/Zentren/Centrum_fuer_Reproduktionsmedizin_und_Andrologie/PDF/Flyer/ukm-andrologie-flyer-messung-von-knochendichte-und-koerperfettanteil.pdf",
+    "verified_at": "2026-04-26T15:11:25.266918+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Sachsenhausen",
+    "street": "Schulstraße 31",
+    "postal_code": "60594",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "latitude": 50.1063179,
+    "longitude": 8.6836179,
+    "phone": "+49 69 61000 80",
+    "email": "kontakt@radiologie-sachsenhausen.de",
+    "website": "https://www.radiologie-sachsenhausen.de/",
+    "source_url": "https://www.radiologie-sachsenhausen.de/kontakt/",
+    "verified_at": "2026-04-26T15:11:39.876603+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Endokrinologie & Diabetologie im Zentrum",
+    "street": "Sophienstr. 40",
+    "postal_code": "70178",
+    "city": "Stuttgart",
+    "country": "DE",
+    "latitude": 48.7737849,
+    "longitude": 9.1722487,
+    "phone": "+49 711 47 08 98 0",
+    "email": "kontakt@endokrinologie-im-zentrum.de",
+    "website": "https://www.endokrinologie-im-zentrum.de/",
+    "source_url": "https://www.endokrinologie-im-zentrum.de/knochendichtenmessung",
+    "verified_at": "2026-04-26T15:12:09.386379+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Universitätsklinikum Essen - Klinik für Endokrinologie, Diabetologie und Stoffwechsel",
+    "street": "Hufelandstraße 55",
+    "postal_code": "45147",
+    "city": "Essen",
+    "country": "DE",
+    "latitude": 51.4348831,
+    "longitude": 6.9902203,
+    "phone": "+492017236303",
+    "email": "knochendichte@uk-essen.de",
+    "website": "https://endokrinologie.de/",
+    "source_url": "https://endokrinologie.de/knochendichtemessung/",
+    "verified_at": "2026-04-26T15:13:10.651474+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Peter Ascheid-Böddeker - Praxis für Orthopädie, Unfallchirurgie und Sportmedizin",
+    "street": "Eichenalle 4",
+    "postal_code": "15711",
+    "city": "Königs Wusterhausen",
+    "country": "DE",
+    "latitude": 52.2955217,
+    "longitude": 13.6268406,
+    "phone": "+49 3375 5290410",
+    "email": null,
+    "website": "https://orthopaedie-zeuthen.de/",
+    "source_url": "https://orthopaedie-zeuthen.de/Knochendichtemessung",
+    "verified_at": "2026-04-26T15:13:41.664251+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Währing",
+    "street": "Währinger Straße 138",
+    "postal_code": "1180",
+    "city": "Wien",
+    "country": "AT",
+    "latitude": 48.2271913,
+    "longitude": 16.3399905,
+    "phone": "+43 1 4706862",
+    "email": "office@radiologiewaehring.at",
+    "website": "https://www.radiologiewaehring.at/",
+    "source_url": "https://www.radiologiewaehring.at/unsere-leistungen/body-composition-dxa-body-scan/",
+    "verified_at": "2026-04-26T15:13:56.098570+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Röntgen am Kai",
+    "street": "Körösistraße 9",
+    "postal_code": "8010",
+    "city": "Graz",
+    "country": "AT",
+    "latitude": 47.0788749,
+    "longitude": 15.4332238,
+    "phone": "+43 316 8409050",
+    "email": null,
+    "website": "https://www.xn--rntgen-am-kai-imb.at/",
+    "source_url": "https://www.xn--rntgen-am-kai-imb.at/unser-angebot/koerperfettmessung",
+    "verified_at": "2026-04-26T15:16:33.818424+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "DZAM - Diagnosezentrum Amstetten",
+    "street": "Agathastraße 15",
+    "postal_code": "3300",
+    "city": "Amstetten",
+    "country": "AT",
+    "latitude": 48.1266845,
+    "longitude": 14.8858274,
+    "phone": "+43 7472 64491",
+    "email": "info@dzam.at",
+    "website": "https://dzam.at/",
+    "source_url": "https://dzam.at/koerperfettmessung-mittels-dexa-methode/",
+    "verified_at": "2026-04-26T15:17:06.094207+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 75.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Chaimowicz - Orthopädie & Schmerz",
+    "street": "Alleestr. 32",
+    "postal_code": "6345",
+    "city": "Kössen",
+    "country": "AT",
+    "latitude": 47.6655009,
+    "longitude": 12.403929,
+    "phone": "+43 5375 20004",
+    "email": "praxis@chaimowicz.at",
+    "website": "https://www.chaimowicz.at/",
+    "source_url": "https://www.chaimowicz.at/impressum/",
+    "verified_at": "2026-04-26T15:17:22.280510+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 89.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": 59.0
+      }
+    ]
+  },
+  {
+    "name": "Schmerz- Rheuma- und Osteoporosezentrum",
+    "street": "Gwattstrasse 15",
+    "postal_code": "8808",
+    "city": "Pfäffikon",
+    "country": "CH",
+    "latitude": 47.2007563,
+    "longitude": 8.7940471,
+    "phone": "+41 55 420 11 00",
+    "email": "pfaeffikon@rheumadiagnostik.ch",
+    "website": "http://www.rheumadiagnostik.ch/",
+    "source_url": "https://www.rheumadiagnostik.ch/KONTAKT/body_kontakt.html",
+    "verified_at": "2026-04-26T15:17:36.933399+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Oberböblingen",
+    "street": "Rudolfinergasse 13",
+    "postal_code": "1190",
+    "city": "Wien",
+    "country": "AT",
+    "latitude": 48.2442351,
+    "longitude": 16.3472881,
+    "phone": "+43 1 369 84 83",
+    "email": "ordination@radiologisch.at",
+    "website": "https://www.radiologisch.at/",
+    "source_url": "https://www.rudolfinerhaus.at/news/neues-geraet-zur-dexa-messung/",
+    "verified_at": "2026-04-26T15:17:53.415186+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Rainer",
+    "street": "Langenlebarner Straße 9",
+    "postal_code": "3430",
+    "city": "Tulln",
+    "country": "AT",
+    "latitude": 48.3324101,
+    "longitude": 16.0600139,
+    "phone": "+43 2272 62448",
+    "email": "office@radiologie-rainer.at",
+    "website": "https://www.radiologie-rainer.at/",
+    "source_url": "https://www.radiologie-rainer.at/kontakt/",
+    "verified_at": "2026-04-26T15:18:08.270738+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 100.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Graz St. Peter",
+    "street": "St. Peter Hauptstraße 31b",
+    "postal_code": "8042",
+    "city": "Graz",
+    "country": "AT",
+    "latitude": 47.0588649,
+    "longitude": 15.4715683,
+    "phone": "+43 316 46 56 11",
+    "email": "anmeldung@radiologie-graz.at",
+    "website": "https://www.radiologie-graz.at/",
+    "source_url": "https://www.radiologie-graz.at/knochendichtemessung/",
+    "verified_at": "2026-04-26T15:18:41.231788+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 70.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": 70.0
+      }
+    ]
+  },
+  {
+    "name": "Vault",
+    "street": "Brandschenkestrasse 150",
+    "postal_code": "8002",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.364738,
+    "longitude": 8.5250587,
+    "phone": "+41 783377377",
+    "email": "info@vaulttraining.ch",
+    "website": "https://vaulttraining.ch/",
+    "source_url": "https://vaulttraining.ch/de/science-based-body-composition-scan/",
+    "verified_at": "2026-04-26T15:20:21.754770+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 235.0
+      }
+    ]
+  },
+  {
+    "name": "Longevity Center Zürich",
+    "street": "Beethovenstrasse 1",
+    "postal_code": "8002",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.3653289,
+    "longitude": 8.5372789,
+    "phone": "+41 43 243 0459",
+    "email": "zurich@longevity-center.eu",
+    "website": "https://longevity-center.eu/",
+    "source_url": "https://longevity-center.eu/contact-us/",
+    "verified_at": "2026-04-26T15:20:36.643508+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Ayun",
+    "street": "Uraniastrasse 18",
+    "postal_code": "8001",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.3742456,
+    "longitude": 8.5362881,
+    "phone": "+41 43 399 88 11",
+    "email": "hello@ayun.ch",
+    "website": "https://www.ayun.ch/",
+    "source_url": "https://www.ayun.ch/de-ch/contact",
+    "verified_at": "2026-04-26T15:20:50.979229+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  }
+]

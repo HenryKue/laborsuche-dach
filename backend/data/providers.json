@@ -1,0 +1,1413 @@
+[
+  {
+    "name": "Diagnostikum Linz",
+    "street": "Saporoshjestraße 3",
+    "postal_code": "4030",
+    "city": "Linz-Kleinmünchen",
+    "country": "AT",
+    "latitude": 48.2509042,
+    "longitude": 14.3206397,
+    "phone": "+43 732 31 34 80",
+    "email": "linz@diagnostikum.at",
+    "website": "https://diagnostikum.at/",
+    "source_url": "https://diagnostikum.at/de/locations/diagnostikum-linz/",
+    "verified_at": "2026-04-26T15:08:21.824983+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Diagnostikum Graz",
+    "street": "Weblinger Gürtel 25",
+    "postal_code": "8054",
+    "city": "Graz",
+    "country": "AT",
+    "latitude": 47.0347211,
+    "longitude": 15.4170282,
+    "phone": "+43 316 2477",
+    "email": "graz@diagnostikum.at",
+    "website": "https://diagnostikum.at/",
+    "source_url": "https://diagnostikum.at/de/locations/diagnostikum-graz/",
+    "verified_at": "2026-04-26T15:08:41.956900+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Diagnosezentrum Meidling",
+    "street": "Meidlinger Hauptstr. 7-9",
+    "postal_code": "1120",
+    "city": "Wien",
+    "country": "AT",
+    "latitude": 48.1824708,
+    "longitude": 16.3306721,
+    "phone": "+43 1 81 333 81",
+    "email": "office@dzm.at",
+    "website": "https://diagnostikum.at/",
+    "source_url": "https://diagnostikum.at/de/locations/diagnosezentrum-meidling/",
+    "verified_at": "2026-04-26T15:09:02.068261+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Ortho Eins - Privatpraxis Dr. Ulrich Schleicher Dr. Carsten Teichert Felix Loehr",
+    "street": "Clayallee 225a",
+    "postal_code": "14195",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.4491211,
+    "longitude": 13.268694,
+    "phone": "+49 30 84183851",
+    "email": "u.schleicher@ortho-eins.de",
+    "website": "https://www.ulrich-schleicher-orthopaede.de/",
+    "source_url": "https://www.ulrich-schleicher-orthopaede.de/",
+    "verified_at": "2026-04-26T15:09:40.166877+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      },
+      {
+        "type": "blood_test",
+        "price": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Orthopädie Köln Widdersdorf",
+    "street": "Hauptstr. 44",
+    "postal_code": "50859",
+    "city": "Köln-Widdersdorf",
+    "country": "DE",
+    "latitude": 50.9650548,
+    "longitude": 6.8330614,
+    "phone": "+49 221 96025888",
+    "email": "info@orthopaedie-koeln-widdersdorf.de",
+    "website": "https://orthopaedie-koeln-widdersdorf.de/",
+    "source_url": "https://orthopaedie-koeln-widdersdorf.de/knochendichtemessung/",
+    "verified_at": "2026-04-26T15:10:00.581056+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Orthopädie em Veedel",
+    "street": "Dürener Straße 199-203",
+    "postal_code": "50931",
+    "city": "Köln",
+    "country": "DE",
+    "latitude": 50.929925,
+    "longitude": 6.91384,
+    "phone": "+4922195587654",
+    "email": "info@orthopaedie-em-veedel.de",
+    "website": "https://orthopaedie-em-veedel.de/",
+    "source_url": "https://orthopaedie-em-veedel.de/koerperzusammensetzungsanalyse/",
+    "verified_at": "2026-04-26T15:10:10.234409+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Praxis für Endokrinologie",
+    "street": "Karolinenstraße 1",
+    "postal_code": "90402",
+    "city": "Nürnberg",
+    "country": "DE",
+    "latitude": 49.4509645,
+    "longitude": 11.0777527,
+    "phone": "+49 0 911 23 60 50",
+    "email": "info@hormone-nbg.de",
+    "website": "https://hormone-nbg.de/",
+    "source_url": "https://hormone-nbg.de/body-composition/",
+    "verified_at": "2026-04-26T15:11:14.917501+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Universitätsklinikum Münster - Klinik für Andrologie",
+    "street": "Domagkstraße 11",
+    "postal_code": "48149",
+    "city": "Münster",
+    "country": "DE",
+    "latitude": 51.9616686,
+    "longitude": 7.6003364,
+    "phone": "+49 251 83 54812",
+    "email": "andro@ukmuenster.de",
+    "website": "https://www.ukm.de/",
+    "source_url": "https://www.ukm.de/fileadmin/user_upload/Medizin/Zentren/Centrum_fuer_Reproduktionsmedizin_und_Andrologie/PDF/Flyer/ukm-andrologie-flyer-messung-von-knochendichte-und-koerperfettanteil.pdf",
+    "verified_at": "2026-04-26T15:11:25.266918+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Sachsenhausen",
+    "street": "Schulstraße 31",
+    "postal_code": "60594",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "latitude": 50.1063179,
+    "longitude": 8.6836179,
+    "phone": "+49 69 61000 80",
+    "email": "kontakt@radiologie-sachsenhausen.de",
+    "website": "https://www.radiologie-sachsenhausen.de/",
+    "source_url": "https://www.radiologie-sachsenhausen.de/kontakt/",
+    "verified_at": "2026-04-26T15:11:39.876603+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Endokrinologie & Diabetologie im Zentrum",
+    "street": "Sophienstr. 40",
+    "postal_code": "70178",
+    "city": "Stuttgart",
+    "country": "DE",
+    "latitude": 48.7737849,
+    "longitude": 9.1722487,
+    "phone": "+49 711 47 08 98 0",
+    "email": "kontakt@endokrinologie-im-zentrum.de",
+    "website": "https://www.endokrinologie-im-zentrum.de/",
+    "source_url": "https://www.endokrinologie-im-zentrum.de/knochendichtenmessung",
+    "verified_at": "2026-04-26T15:12:09.386379+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Universitätsklinikum Essen - Klinik für Endokrinologie, Diabetologie und Stoffwechsel",
+    "street": "Hufelandstraße 55",
+    "postal_code": "45147",
+    "city": "Essen",
+    "country": "DE",
+    "latitude": 51.4348831,
+    "longitude": 6.9902203,
+    "phone": "+492017236303",
+    "email": "knochendichte@uk-essen.de",
+    "website": "https://endokrinologie.de/",
+    "source_url": "https://endokrinologie.de/knochendichtemessung/",
+    "verified_at": "2026-04-26T15:13:10.651474+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Peter Ascheid-Böddeker - Praxis für Orthopädie, Unfallchirurgie und Sportmedizin",
+    "street": "Eichenalle 4",
+    "postal_code": "15711",
+    "city": "Königs Wusterhausen",
+    "country": "DE",
+    "latitude": 52.2955217,
+    "longitude": 13.6268406,
+    "phone": "+49 3375 5290410",
+    "email": null,
+    "website": "https://orthopaedie-zeuthen.de/",
+    "source_url": "https://orthopaedie-zeuthen.de/Knochendichtemessung",
+    "verified_at": "2026-04-26T15:13:41.664251+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Währing",
+    "street": "Währinger Straße 138",
+    "postal_code": "1180",
+    "city": "Wien",
+    "country": "AT",
+    "latitude": 48.2271913,
+    "longitude": 16.3399905,
+    "phone": "+43 1 4706862",
+    "email": "office@radiologiewaehring.at",
+    "website": "https://www.radiologiewaehring.at/",
+    "source_url": "https://www.radiologiewaehring.at/unsere-leistungen/body-composition-dxa-body-scan/",
+    "verified_at": "2026-04-26T15:13:56.098570+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Röntgen am Kai",
+    "street": "Körösistraße 9",
+    "postal_code": "8010",
+    "city": "Graz",
+    "country": "AT",
+    "latitude": 47.0788749,
+    "longitude": 15.4332238,
+    "phone": "+43 316 8409050",
+    "email": null,
+    "website": "https://www.xn--rntgen-am-kai-imb.at/",
+    "source_url": "https://www.xn--rntgen-am-kai-imb.at/unser-angebot/koerperfettmessung",
+    "verified_at": "2026-04-26T15:16:33.818424+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "DZAM - Diagnosezentrum Amstetten",
+    "street": "Agathastraße 15",
+    "postal_code": "3300",
+    "city": "Amstetten",
+    "country": "AT",
+    "latitude": 48.1266845,
+    "longitude": 14.8858274,
+    "phone": "+43 7472 64491",
+    "email": "info@dzam.at",
+    "website": "https://dzam.at/",
+    "source_url": "https://dzam.at/koerperfettmessung-mittels-dexa-methode/",
+    "verified_at": "2026-04-26T15:17:06.094207+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 75.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Chaimowicz - Orthopädie & Schmerz",
+    "street": "Alleestr. 32",
+    "postal_code": "6345",
+    "city": "Kössen",
+    "country": "AT",
+    "latitude": 47.6655009,
+    "longitude": 12.403929,
+    "phone": "+43 5375 20004",
+    "email": "praxis@chaimowicz.at",
+    "website": "https://www.chaimowicz.at/",
+    "source_url": "https://www.chaimowicz.at/impressum/",
+    "verified_at": "2026-04-26T15:17:22.280510+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 89.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": 59.0
+      }
+    ]
+  },
+  {
+    "name": "Schmerz- Rheuma- und Osteoporosezentrum",
+    "street": "Gwattstrasse 15",
+    "postal_code": "8808",
+    "city": "Pfäffikon",
+    "country": "CH",
+    "latitude": 47.2007563,
+    "longitude": 8.7940471,
+    "phone": "+41 55 420 11 00",
+    "email": "pfaeffikon@rheumadiagnostik.ch",
+    "website": "http://www.rheumadiagnostik.ch/",
+    "source_url": "https://www.rheumadiagnostik.ch/KONTAKT/body_kontakt.html",
+    "verified_at": "2026-04-26T15:17:36.933399+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Oberböblingen",
+    "street": "Rudolfinergasse 13",
+    "postal_code": "1190",
+    "city": "Wien",
+    "country": "AT",
+    "latitude": 48.2442351,
+    "longitude": 16.3472881,
+    "phone": "+43 1 369 84 83",
+    "email": "ordination@radiologisch.at",
+    "website": "https://www.radiologisch.at/",
+    "source_url": "https://www.rudolfinerhaus.at/news/neues-geraet-zur-dexa-messung/",
+    "verified_at": "2026-04-26T15:17:53.415186+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Rainer",
+    "street": "Langenlebarner Straße 9",
+    "postal_code": "3430",
+    "city": "Tulln",
+    "country": "AT",
+    "latitude": 48.3324101,
+    "longitude": 16.0600139,
+    "phone": "+43 2272 62448",
+    "email": "office@radiologie-rainer.at",
+    "website": "https://www.radiologie-rainer.at/",
+    "source_url": "https://www.radiologie-rainer.at/kontakt/",
+    "verified_at": "2026-04-26T15:18:08.270738+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 100.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Radiologie Graz St. Peter",
+    "street": "St. Peter Hauptstraße 31b",
+    "postal_code": "8042",
+    "city": "Graz",
+    "country": "AT",
+    "latitude": 47.0588649,
+    "longitude": 15.4715683,
+    "phone": "+43 316 46 56 11",
+    "email": "anmeldung@radiologie-graz.at",
+    "website": "https://www.radiologie-graz.at/",
+    "source_url": "https://www.radiologie-graz.at/knochendichtemessung/",
+    "verified_at": "2026-04-26T15:18:41.231788+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 70.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": 70.0
+      }
+    ]
+  },
+  {
+    "name": "Vault",
+    "street": "Brandschenkestrasse 150",
+    "postal_code": "8002",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.364738,
+    "longitude": 8.5250587,
+    "phone": "+41 783377377",
+    "email": "info@vaulttraining.ch",
+    "website": "https://vaulttraining.ch/",
+    "source_url": "https://vaulttraining.ch/de/science-based-body-composition-scan/",
+    "verified_at": "2026-04-26T15:20:21.754770+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": 235.0
+      }
+    ]
+  },
+  {
+    "name": "Longevity Center Zürich",
+    "street": "Beethovenstrasse 1",
+    "postal_code": "8002",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.3653289,
+    "longitude": 8.5372789,
+    "phone": "+41 43 243 0459",
+    "email": "zurich@longevity-center.eu",
+    "website": "https://longevity-center.eu/",
+    "source_url": "https://longevity-center.eu/contact-us/",
+    "verified_at": "2026-04-26T15:20:36.643508+00:00",
+    "self_pay": false,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Ayun",
+    "street": "Uraniastrasse 18",
+    "postal_code": "8001",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.3742456,
+    "longitude": 8.5362881,
+    "phone": "+41 43 399 88 11",
+    "email": "hello@ayun.ch",
+    "website": "https://www.ayun.ch/",
+    "source_url": "https://www.ayun.ch/de-ch/contact",
+    "verified_at": "2026-04-26T15:20:50.979229+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "body_composition",
+        "price_eur": -1.0
+      },
+      {
+        "type": "bone_density",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "VITALITY - Privatpraxis für Ästhetische Medizin",
+    "street": "Hohe Str. 44",
+    "postal_code": "51149",
+    "city": "Köln",
+    "country": "DE",
+    "latitude": 50.8965649,
+    "longitude": 7.0340425,
+    "phone": null,
+    "email": "info@vitality-praxis.de",
+    "website": "https://www.vitality-praxis.de/",
+    "source_url": "https://www.vitality-praxis.de/kontakt",
+    "verified_at": "2026-04-26T15:23:02.326050+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": -1.0
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor Sylt",
+    "street": "Dr.-Nicolas-Straße 3",
+    "postal_code": "25980",
+    "city": "Westerland",
+    "country": "DE",
+    "latitude": 54.9104635,
+    "longitude": 8.3003071,
+    "phone": "+49 4651 889977",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-sylt/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-sylt/",
+    "verified_at": "2026-04-26T15:23:34.549482+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 48.72
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor Kiel",
+    "street": "Laboer Weg 20A",
+    "postal_code": "24226",
+    "city": "Heikendorf",
+    "country": "DE",
+    "latitude": 54.3742033,
+    "longitude": 10.2071804,
+    "phone": "+49 431 218 38 66",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-kiel/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-kiel/",
+    "verified_at": "2026-04-26T15:24:01.423086+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 48.72
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor - Labor Hamburg-Nord",
+    "street": "Essener Straße 110",
+    "postal_code": "22419",
+    "city": "Hamburg",
+    "country": "DE",
+    "latitude": 53.6754061,
+    "longitude": 10.0007641,
+    "phone": "+49 40 538 05 888",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-hamburg-nord/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-hamburg-nord/",
+    "verified_at": "2026-04-26T15:24:29.452639+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 48.72
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor - Labor Stephansplatz",
+    "street": "Stephansplatz 3",
+    "postal_code": "20354",
+    "city": "Hamburg",
+    "country": "DE",
+    "latitude": 53.5578644,
+    "longitude": 9.9883831,
+    "phone": "+49 40 766 96 700",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-stephansplatz/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-stephansplatz/",
+    "verified_at": "2026-04-26T15:24:57.185975+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 53.16
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor - Labor Oldenburg",
+    "street": "Koppelstraße 1",
+    "postal_code": "26135",
+    "city": "Oldenburg",
+    "country": "DE",
+    "latitude": 53.1352392,
+    "longitude": 8.2178336,
+    "phone": "+49 441 361 40 833",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-oldenburg/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-oldenburg/",
+    "verified_at": "2026-04-26T15:25:21.977593+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 50.73
+      }
+    ]
+  },
+  {
+    "name": "Praxis Gerlach & Kollegen",
+    "street": "Am Meyerhof 7",
+    "postal_code": "27383",
+    "city": "Scheeßel",
+    "country": "DE",
+    "latitude": 53.16838,
+    "longitude": 9.4799946,
+    "phone": "+49 42 63 98 59 78 0",
+    "email": "hallo@doc24.me",
+    "website": "https://www.praxis-gerlach.de/",
+    "source_url": "https://www.praxis-gerlach.de/allgemeinmedizin/",
+    "verified_at": "2026-04-26T15:25:37.943601+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 53.16
+      }
+    ]
+  },
+  {
+    "name": "Medizinisches Labor Bremen",
+    "street": "Louis-Leitz-Str. 2",
+    "postal_code": "28355",
+    "city": "Bremen",
+    "country": "DE",
+    "latitude": 53.0828507,
+    "longitude": 8.9104687,
+    "phone": "+49 421 20 72 0",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-bremen/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-bremen/",
+    "verified_at": "2026-04-26T15:26:02.610065+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 82.89
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor - Labor Celle",
+    "street": "Neumarkt 1",
+    "postal_code": "29221",
+    "city": "Celle",
+    "country": "DE",
+    "latitude": 52.6264507,
+    "longitude": 10.0797817,
+    "phone": "+49 5141 92 56 0",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-celle/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-celle/",
+    "verified_at": "2026-04-26T15:26:31.981687+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 82.89
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Berlin-Marzahn",
+    "street": "Mehrower Allee 22",
+    "postal_code": "12687",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.5554586,
+    "longitude": 13.5613015,
+    "phone": "+49 030 485 26 128",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-marzahn/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-marzahn/",
+    "verified_at": "2026-04-26T15:26:58.973475+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Berlin-Tiergarten",
+    "street": "Lützowstr. 24-26",
+    "postal_code": "10785",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.5041823,
+    "longitude": 13.3642154,
+    "phone": "+49 030 485 261 36",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-tiergarten/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-tiergarten/",
+    "verified_at": "2026-04-26T15:27:28.267882+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Berlin-Spandau",
+    "street": "Siemensdamm 50",
+    "postal_code": "13629",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.5350366,
+    "longitude": 13.2742541,
+    "phone": "+49 030 485 26 208",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-spandau/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-berlin-spandau/",
+    "verified_at": "2026-04-26T15:28:04.134642+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Labor 28",
+    "street": "Mecklenburgische Straße 28",
+    "postal_code": "14197",
+    "city": "Berlin",
+    "country": "DE",
+    "latitude": 52.4782244,
+    "longitude": 13.3081598,
+    "phone": "+49 30 820 93 0",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-28/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-28/",
+    "verified_at": "2026-04-26T15:28:34.034429+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 67.86
+      }
+    ]
+  },
+  {
+    "name": "MLD Medizinische Laboratorien Düsseldorf",
+    "street": "Nordstraße 44",
+    "postal_code": "40477",
+    "city": "Düsseldorf",
+    "country": "DE",
+    "latitude": 51.2377789,
+    "longitude": 6.7791673,
+    "phone": "+49 211 4978 0",
+    "email": "info@labor-duesseldorf.de",
+    "website": "https://www.labor-duesseldorf.de/",
+    "source_url": "https://www.labor-duesseldorf.de/",
+    "verified_at": "2026-04-26T15:28:48.419302+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 220.71
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor Köln",
+    "street": "Hauptstraße 71-73",
+    "postal_code": "50996",
+    "city": "Köln",
+    "country": "DE",
+    "latitude": 50.8933481,
+    "longitude": 6.9952764,
+    "phone": "+49 221 93 55 56 0",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-koeln/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-koeln/",
+    "verified_at": "2026-04-26T15:29:12.997165+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 45.75
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor Klipphausen",
+    "street": "Bremer Straße 9",
+    "postal_code": "01665",
+    "city": "Klipphausen",
+    "country": "DE",
+    "latitude": 51.0630934,
+    "longitude": 13.5187044,
+    "phone": "+49 35204 635 0",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-klipphausen/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-klipphausen/",
+    "verified_at": "2026-04-26T15:29:46.312884+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 80.61
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Labor Jena",
+    "street": "Löbstedter Straße 93",
+    "postal_code": "07749",
+    "city": "Jena",
+    "country": "DE",
+    "latitude": 50.9458825,
+    "longitude": 11.6086611,
+    "phone": "+49 3641 401320",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-jena/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-jena/",
+    "verified_at": "2026-04-26T15:30:15.227102+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Labor Gotha",
+    "street": "Huttenstraße 7",
+    "postal_code": "99867",
+    "city": "Gotha",
+    "country": "DE",
+    "latitude": 50.9512869,
+    "longitude": 10.7075175,
+    "phone": "+49 3641 401 412",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-gotha/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-gotha/",
+    "verified_at": "2026-04-26T15:30:43.617216+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Labor Mittelhessen",
+    "street": "Rudolf-Diesel-Straße 4",
+    "postal_code": "35394",
+    "city": "Gießen",
+    "country": "DE",
+    "latitude": 50.5907859,
+    "longitude": 8.7178881,
+    "phone": "+49 641 300 21 0",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-giessen/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-giessen/",
+    "verified_at": "2026-04-26T15:31:13.485002+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.53
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Labor Fulda",
+    "street": "Gerloser Weg 20",
+    "postal_code": "36039",
+    "city": "Fulda",
+    "country": "DE",
+    "latitude": 50.5615873,
+    "longitude": 9.6748039,
+    "phone": "+49 661 952 729 22",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-fulda/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-fulda/",
+    "verified_at": "2026-04-26T15:31:41.704710+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Labor Mainz",
+    "street": "Wallstraße 3-5",
+    "postal_code": "55122",
+    "city": "Mainz",
+    "country": "DE",
+    "latitude": 50.0006214,
+    "longitude": 8.2570145,
+    "phone": "+49 6131 576 08 60",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-mainz/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-mainz/",
+    "verified_at": "2026-04-26T15:32:08.647393+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Labor Ingelheim",
+    "street": "Konrad Adenauer Str. 17",
+    "postal_code": "55218",
+    "city": "Ingelheim am Rhein",
+    "country": "DE",
+    "latitude": 49.9820998,
+    "longitude": 8.0498828,
+    "phone": "+49 6132 781 74 00",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-ingelheim/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-ingelheim/",
+    "verified_at": "2026-04-26T15:32:37.219609+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Labor Staber Bayreuth",
+    "street": "Karl-Marx-Str. 7A",
+    "postal_code": "95444",
+    "city": "Bayreuth",
+    "country": "DE",
+    "latitude": 49.9500954,
+    "longitude": 11.5752803,
+    "phone": "+49 921 507204566",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-staber-bayreuth/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-staber-bayreuth/",
+    "verified_at": "2026-04-26T15:33:05.743653+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 80.61
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor bei der WoGe",
+    "street": "Von-Steuben-Straße 17",
+    "postal_code": "67549",
+    "city": "Worms",
+    "country": "DE",
+    "latitude": 49.6382711,
+    "longitude": 8.3501392,
+    "phone": "+49 6241 972 13 14",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-bei-der-woge/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/mein-direktlabor-bei-der-woge/",
+    "verified_at": "2026-04-26T15:33:31.273630+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor - Labor Staber Nürnberg",
+    "street": "Deutschherrnstr. 15-19",
+    "postal_code": "90429",
+    "city": "Nürnberg",
+    "country": "DE",
+    "latitude": 49.4539321,
+    "longitude": 11.0635914,
+    "phone": "+49 911 94 47 076",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-staber-nuernberg/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-staber-nuernberg/",
+    "verified_at": "2026-04-26T15:33:56.502674+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 80.61
+      }
+    ]
+  },
+  {
+    "name": "Bioscientia Labor Saar",
+    "street": "Otto-Kaiser-Str. 8a",
+    "postal_code": "66386",
+    "city": "St. Ingbert",
+    "country": "DE",
+    "latitude": 49.2728655,
+    "longitude": 7.1420454,
+    "phone": "+49 6894 95 50 0",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-saar/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-saar/",
+    "verified_at": "2026-04-26T15:34:26.080605+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 70.31
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor Karlsruhe - Moderne Labordiagnostik für Selbstzahler",
+    "street": "Am Rüppurrer Schloß 1",
+    "postal_code": "76199",
+    "city": "Karlsruhe",
+    "country": "DE",
+    "latitude": 48.9814584,
+    "longitude": 8.4051121,
+    "phone": "+49 721 62 77 550",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-karlsruhe/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-karlsruhe/",
+    "verified_at": "2026-04-26T15:34:53.689361+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 45.74
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor Stuttgart - Moderne Labordiagnostik für Selbstzahler",
+    "street": "Leinfelder Str. 60",
+    "postal_code": "70771",
+    "city": "Leinfelden-Echterdingen",
+    "country": "DE",
+    "latitude": 48.691338,
+    "longitude": 9.1597942,
+    "phone": "+49 711 652 243 350",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-stuttgart/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-stuttgart/",
+    "verified_at": "2026-04-26T15:35:18.852097+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 45.74
+      }
+    ]
+  },
+  {
+    "name": "Labor Augsburg MVZ",
+    "street": "August-Wessels-Straße 5",
+    "postal_code": "86154",
+    "city": "Augsburg",
+    "country": "DE",
+    "latitude": 48.3858332,
+    "longitude": 10.8720686,
+    "phone": "+49 821 4201 200",
+    "email": "labor@labor-augsburg-mvz.de",
+    "website": "https://labor-augsburg-mvz.de/",
+    "source_url": "https://labor-augsburg-mvz.de/",
+    "verified_at": "2026-04-26T15:35:59.812502+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 73.82
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor - Labor München",
+    "street": "Paul-Wassermann-Straße 1",
+    "postal_code": "81829",
+    "city": "München",
+    "country": "DE",
+    "latitude": 48.1374722,
+    "longitude": 11.6856535,
+    "phone": "+49 89 63 02 38 980",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/labor-staber-muenchen/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/labor-staber-muenchen/",
+    "verified_at": "2026-04-26T15:36:27.581533+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 80.61
+      }
+    ]
+  },
+  {
+    "name": "Mein Direktlabor - Labor Freiburg",
+    "street": "Berliner Allee 2",
+    "postal_code": "79110",
+    "city": "Freiburg",
+    "country": "DE",
+    "latitude": 48.0080463,
+    "longitude": 7.829449,
+    "phone": "+49 761 400 06 580",
+    "email": "info@mln.de",
+    "website": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-freiburg/",
+    "source_url": "https://www.meindirektlabor.de/standorte/standort/bioscientia-labor-freiburg/",
+    "verified_at": "2026-04-26T15:36:50.925947+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 64.51
+      }
+    ]
+  },
+  {
+    "name": "myLab",
+    "street": "Europaplatz 7",
+    "postal_code": "4020",
+    "city": "Linz",
+    "country": "AT",
+    "latitude": 48.2998994,
+    "longitude": 14.3041935,
+    "phone": "+43 732 666566 0",
+    "email": "paul.niedetzky@my-lab.at",
+    "website": "https://www.my-lab.at/",
+    "source_url": "https://www.my-lab.at/fuer-patientinnen/",
+    "verified_at": "2026-04-26T15:37:22.750198+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": -1
+      }
+    ]
+  },
+  {
+    "name": "Lab to Go",
+    "street": "Falkenstrasse 14",
+    "postal_code": "8008",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.3649125,
+    "longitude": 8.5477938,
+    "phone": "+41 44 250 50 00",
+    "email": "labtogo​@analytica.ch",
+    "website": "https://labtogo.ch/",
+    "source_url": "https://labtogo.ch/",
+    "verified_at": "2026-04-26T15:37:38.452440+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": -1
+      }
+    ]
+  },
+  {
+    "name": "Luzerner Kantonsspital",
+    "street": "Spitalstrasse 34",
+    "postal_code": "6004",
+    "city": "Luzern",
+    "country": "CH",
+    "latitude": 47.0600815,
+    "longitude": 8.3029984,
+    "phone": "+41 41 205 52 07",
+    "email": "info@luks.ch",
+    "website": "https://www.luks.ch/",
+    "source_url": "https://www.luks.ch/standorte/standort-luzern/labormedizin/kontakt-und-anreise-labormedizin",
+    "verified_at": "2026-04-26T15:38:09.109461+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": -1
+      }
+    ]
+  },
+  {
+    "name": "drop in lab Greifengasse",
+    "street": "Greifengasse 18",
+    "postal_code": "4058",
+    "city": "Basel",
+    "country": "CH",
+    "latitude": 47.5610331,
+    "longitude": 7.5920108,
+    "phone": "+41 61 511 70 10",
+    "email": "greifengasse@dropinlab.ch",
+    "website": "https://dropinlab.ch/",
+    "source_url": "https://dropinlab.ch/standorte/greifengasse/",
+    "verified_at": "2026-04-26T15:38:24.334711+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 143.9
+      }
+    ]
+  },
+  {
+    "name": "drop in lab Markthalle",
+    "street": "Viaduktstrasse 12",
+    "postal_code": "4051",
+    "city": "Basel",
+    "country": "CH",
+    "latitude": 47.5489875,
+    "longitude": 7.5866633,
+    "phone": "+41 61 511 70 12",
+    "email": "markthalle@dropinlab.ch",
+    "website": "https://dropinlab.ch/",
+    "source_url": "https://dropinlab.ch/standorte/markthalle/",
+    "verified_at": "2026-04-26T15:38:39.726750+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 143.9
+      }
+    ]
+  },
+  {
+    "name": "Wunschlabor",
+    "street": "Kornhausgasse 2",
+    "postal_code": "4051",
+    "city": "Basel",
+    "country": "CH",
+    "latitude": 47.5566218,
+    "longitude": 7.5835841,
+    "phone": "+41 61 269 81 81",
+    "email": "info@labor-rothen.ch",
+    "website": "https://www.wunschlabor.ch/",
+    "source_url": "https://www.wunschlabor.ch/",
+    "verified_at": "2026-04-26T15:39:11.242248+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 130.6
+      }
+    ]
+  },
+  {
+    "name": "Walk-in Laboranalysen Albisriederplatz",
+    "street": "Albisriederstrasse 5",
+    "postal_code": "8003",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.3779064,
+    "longitude": 8.5095619,
+    "phone": "+41 44 515 28 08",
+    "email": "walkin@lg1.ch",
+    "website": "https://walkin-labor.ch/",
+    "source_url": "https://walkin-labor.ch/walkin-albisriederplatz/",
+    "verified_at": "2026-04-26T15:39:31.523489+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 130.3
+      }
+    ]
+  },
+  {
+    "name": "Walk-in Laboranalysen Zollhaus",
+    "street": "Zollstrasse 115",
+    "postal_code": "8005",
+    "city": "Zürich",
+    "country": "CH",
+    "latitude": 47.3813925,
+    "longitude": 8.5304093,
+    "phone": "+41 44 515 28 00",
+    "email": "walkin-zollhaus@lg1.ch",
+    "website": "https://walkin-labor.ch/",
+    "source_url": "https://walkin-labor.ch/walkin-zollhaus/",
+    "verified_at": "2026-04-26T15:39:52.519642+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 130.3
+      }
+    ]
+  },
+  {
+    "name": "Labor Dr. Hamwi",
+    "street": "Wachreinergasse 8",
+    "postal_code": "4020",
+    "city": "Linz",
+    "country": "AT",
+    "latitude": 48.2947612,
+    "longitude": 14.2858175,
+    "phone": "+43 732 662898",
+    "email": "vwz@lablinz.eu",
+    "website": "https://www.labor-hamwi.at/",
+    "source_url": "https://www.labor-hamwi.at/unser-labor/kontakt/",
+    "verified_at": "2026-04-26T15:40:08.102647+00:00",
+    "self_pay": true,
+    "services": [
+      {
+        "type": "blood_test",
+        "price_eur": 86.27
+      }
+    ]
+  }
+]
