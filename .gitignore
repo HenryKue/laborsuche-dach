@@ -90,6 +90,12 @@ web-app/*.sln
 Thumbs.db
 desktop.ini
 
+# --- Scraper cache (Firecrawl) ---
+data-retrieval/.firecrawl/
+
+# --- Claude Code config ---
+.claude/
+
 # --- Misc ---
 *.pid
 *.seed
