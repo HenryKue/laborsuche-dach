@@ -1,0 +1,24 @@
+# Python
+
+**/**pycache**
+**/\*.pyc
+**/venv
+**/.venv
+
+# Node
+
+**/node_modules
+**/dist
+**/build
+**/.next
+
+# Editor / OS
+
+.vscode
+.idea
+.DS_Store
+
+# Git
+
+.git
+.gitignore

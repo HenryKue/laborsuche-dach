@@ -1,0 +1,30 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_DB: labsearch
+      POSTGRES_USER: labsearch
+      POSTGRES_PASSWORD: labsearch
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U labsearch"]
+      interval: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: . # Root statt ./backend
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql+psycopg://labsearch:labsearch@db:5432/labsearch
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./backend/data:/app/data:ro
+
+volumes:
+  db_data:
