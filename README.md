@@ -2,6 +2,8 @@
 
 Interaktive Karte für DEXA Body Composition Scans und Blutuntersuchungen im DACH-Raum.
 
+**[Live-Demo →](https://huggingface.co/spaces/HenryKu/laborsuche-dach)**
+
 ## Quickstart
 
 Voraussetzung: [Docker](https://docs.docker.com/get-docker/) und Docker Compose.
