@@ -9,7 +9,7 @@ Interaktive Karte für DEXA Body Composition Scans und Blutuntersuchungen im DAC
 Voraussetzung: [Docker](https://docs.docker.com/get-docker/) und Docker Compose.
 
 ```bash
-git clone https://github.com/henry-kuefner/laborsuche-dach.git
+git clone https://github.com/HenryKue/laborsuche-dach.git
 cd laborsuche-dach
 docker compose up --build
 ```
