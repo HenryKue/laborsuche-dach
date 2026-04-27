@@ -95,7 +95,7 @@
       },
       {
         "type": "blood_test",
-        "price": -1.0
+        "price_eur": -1.0
       }
     ]
   },
